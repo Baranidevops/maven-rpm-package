@@ -61,16 +61,4 @@
 			<scope>compile</scope>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>artifactory-1-vm-releases</name>
-        <url>http://104.155.142.149/artifactory/rpm</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>artifactory-1-vm-snapshots</name>
-        <url>http://104.155.142.149/artifactory/rpm</url>
-    </snapshotRepository>
-</distributionManagement>
 </project>

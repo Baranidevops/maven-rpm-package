@@ -65,12 +65,12 @@
     <repository>
         <id>central</id>
         <name>artifactory-1-vm-releases</name>
-        <url>http://104.155.142.149/artifactory/rpm</url>
+        <url>http://104.155.142.149/artifactory/rpm-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>artifactory-1-vm-snapshots</name>
-        <url>http://104.155.142.149/artifactory/rpm</url>
+        <url>http://104.155.142.149/artifactory/rpm-local</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
